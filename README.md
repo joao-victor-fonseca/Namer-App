@@ -29,8 +29,6 @@
   <li>🔀 Geração de nomes com o pacote <code>english_words</code></li>
   <li>🧠 Gerenciamento de estado usando <code>Provider</code></li>
   <li>🎯 Interface com <code>NavigationRail</code> para uma navegação fluida</li>
-  <li>❤️ Sistema de favoritos com persistência local (em breve)</li>
-</ul>
 
 ---
 
